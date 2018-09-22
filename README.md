@@ -7,4 +7,5 @@ This notebook contains exploratory data analysis, data preparation and a neural 
 [Click here to view](https://github.com/stochasticats/credit-card-fraud-detection/blob/master/Data%20Analysis%20and%20Prediction%20of%20Credit%20Card%20Fraud.ipynb)
 
 ## Prediction of Credit Card Fraud in Keras.ipynb
-This notebook contains a neural network classification model built in Keras, along with more in-depth testing and validation.
+This notebook contains a neural network classification model built in Keras, along with more in-depth testing and validation. This notebook lacks explanation at steps, something I wish to add in the future.
+[Click here to view](https://github.com/stochasticats/credit-card-fraud-detection/blob/master/Prediction%20of%20Credit%20Card%20Fraud%20in%20Keras.ipynb)
