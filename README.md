@@ -18,18 +18,5 @@ This notebook contains a neural network classification model built in Keras, alo
 [Click here to view notebook](https://github.com/stochasticats/credit-card-fraud-detection/blob/master/Prediction%20of%20Credit%20Card%20Fraud%20in%20Keras.ipynb).
 
 ### Some results
-_________________________________________________________________
-Layer (type)                 Output Shape              Param #   
-=================================================================
-dense_1 (Dense)              (None, 14)                420       
-_________________________________________________________________
-dense_2 (Dense)              (None, 7)                 105       
-_________________________________________________________________
-dense_3 (Dense)              (None, 1)                 8         
-=================================================================
-Total params: 533
-Trainable params: 533
-Non-trainable params: 0
-_________________________________________________________________
 
 ![alt text](https://raw.githubusercontent.com/stochasticats/credit-card-fraud-detection/master/figures/confusion_matrix.png "Confusion Matrix")
