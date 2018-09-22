@@ -1,11 +1,10 @@
-# Data Analysis and Predictive Modeling on Credit Card Fraud Data
+# Predicting Credit Card Fraud with Deep Learning
 
-The Jupyter Notebook contains data analysis of credit card fraud data, and a predictive model to detect a fraudulent transaction. The predictive model is a neural network implemented in tensorflow. 
+This github page consists of iPython notebooks of data analysis and deep learning model development on a credit card fraud data set from Kaggle: [Credit Card Fraud Detection - Anonymized credit card transactions labeled as fraudulent or genuine](https://www.kaggle.com/mlg-ulb/creditcardfraud).
 
-The neural network implemented in tensorflow has three hidden layers and the hidden layer dimensions are: 29, 14, and 7.
+# Data Analysis and Prediction of Credit Card Fraud.ipynb
+This notebook contains exploratory data analysis, data preparation and a neural network classification model built in TensorFlow.
+[Click here to view](https://github.com/stochasticats/credit-card-fraud-detection/blob/master/Data%20Analysis%20and%20Prediction%20of%20Credit%20Card%20Fraud.ipynb)
 
-Within the model I used the sigmoid cross entropy with logits as the cost function and we use Adam optimization to minimize the cost function.
-
-The model ends up being trained on only a smaller portion of the data set due to computational complexity. I obtained a train and test accuracy of 100%.
-
-I ran the Jupyter Notebook on a Kaggle kernel, which allowed me to utilize the entire data set. Here is a link: https://www.kaggle.com/stochasticats/neural-network-model-implemented-in-tensorflow/notebook
+# Prediction of Credit Card Fraud in Keras.ipynb
+This notebook contains a neural network classification model built in Keras, along with more in-depth testing and validation.
